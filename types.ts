@@ -19,6 +19,7 @@ let var7: [number, string] = [1, "apple"]; // var7 is a tuple of number and stri
 
 // in objects
 
+
 let var8: { name: string; age: number } = { name: "Alice", age: 30 }; // var8 is an object with name and age properties
 
 // Functions
