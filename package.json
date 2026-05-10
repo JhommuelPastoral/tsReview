@@ -1,0 +1,30 @@
+{
+  "name": "tsreview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhommuelPastoral/tsReview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JhommuelPastoral/tsReview/issues"
+  },
+  "homepage": "https://github.com/JhommuelPastoral/tsReview#readme",
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "jsdom": "^29.1.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^28.0.1",
+    "@types/node": "^25.3.0"
+  }
+}
